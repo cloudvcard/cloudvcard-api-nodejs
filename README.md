@@ -18,10 +18,6 @@ Also make sure that you have Node.js 6 or newer in order to use it.
 
 Please refer to the documentation website on https://docs.cloudvcard.com
 
-## Changelog
-
-Check the [GitHub Releases page](https://github.com/express-validator/express-validator/releases).
-
 ## License
 
 MIT License
