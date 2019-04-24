@@ -1,0 +1,30 @@
+{
+  "name": "cloudvcard-api-nodejs",
+  "version": "0.1.1",
+  "description": "CloudVCard API example for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "typescript": "node_modules/typescript/bin/tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudvcard/cloudvcard-api-nodejs.git"
+  },
+  "keywords": [
+    "cloudvcard",
+    "api",
+    "contact",
+    "automation"
+  ],
+  "author": "Bram Verdonck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudvcard/cloudvcard-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/cloudvcard/cloudvcard-api-nodejs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}

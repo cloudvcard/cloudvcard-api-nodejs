@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "module": "commonjs",
+      "noImplicitAny": true,
+      "removeComments": false,
+      "preserveConstEnums": true,
+      "sourceMap": false,
+      "target" : "es5",
+      "lib": ["es2015"]
+  },
+  "files": [
+      "lib/cloudvcard.ts",
+      "example/authenticate.ts"
+  ]
+}
